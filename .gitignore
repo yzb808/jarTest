@@ -1,0 +1,6 @@
+/target/
+/.settings
+.classpath
+.project
+/jarTest.iml
+/.idea/
